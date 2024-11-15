@@ -1,0 +1,17 @@
+Privacy Policy
+This policy applies to the information inside of Basic Scoreboard - Everything.
+
+Information we collect
+Our free app uses AdMob as an ad provider. AdMob wants to
+show ads relevant to you and uses the device's advertising ID to serve personalized ads based
+on the user's interests. Read all about the Google page to opt-out of customized advertising:
+https://adssettings.google.com/u/0/authenticated. And here is the link to Google's Privacy
+Policies: https://policies.google.com/privacy and https://policies.google.com/technologies/partner-sites.
+
+Our app also stores the score locally on the device. This allows the user to save the state of the current score.
+
+Your Consent
+By using our app, you consent to our privacy policy.
+
+Contacting Us
+If you have any questions regarding this privacy policy or our app, please email basicscoreboard@gmail.com
